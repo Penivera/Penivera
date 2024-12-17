@@ -1,4 +1,4 @@
-👋 Hi, I’m @SpiDher
+👋 Hi, I’m Peniel Ben
 
 👀 Interests: Passionate about backend development, blogging, and web automation with Python. Also keen on exploring trading opportunities.
 
