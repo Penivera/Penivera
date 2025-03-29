@@ -7,7 +7,9 @@
 💡 Open to Collaborate: Looking to collaborate on projects involving scalable backend solutions, web automation scripts, and dynamic automatiom solutions.
 
 📫 Reach Me: You can connect with me via email: penielben40@gmail.com  
+
 WhatsApp: +2348078617821
+
 X: https://x.com/penivera001
 
 😄 Pronouns: He/Him
