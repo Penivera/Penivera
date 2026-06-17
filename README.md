@@ -3,13 +3,13 @@
 
 **👀 Focus:** Scalable backend architectures, systems engineering, Web3/Smart Contracts, DevOps, and advanced web automation/scraping.  
 **💡 Collaborate:** Open to building containerized backend systems, blockchain protocols, and anti-bot automation scripts.  
-**⚡ Fun Fact:** Nobody is coming to save you, keep pushing forward and own your growth.  
+**⚡ Fun Fact:** Nobody is coming to save you—keep pushing forward and own your growth.  
 
 ### 🛠️ Tech Stack & Arsenal
 
 **Languages & Frameworks**  
 ![Python](https://img.shields.io/badge/Python-Django_|_Flask_|_FastAPI-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-Axum_|_Smart_Contracts-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-Axum_|_Actix_Web_|_Smart_Contracts-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Vyper](https://img.shields.io/badge/Vyper-Smart_Contracts-363636?style=for-the-badge)
 
 **Automation & Infrastructure**  
@@ -24,7 +24,7 @@
 
 ### 📫 Let's Connect
 [![Email](https://img.shields.io/badge/Email-penielben40%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:penielben40@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Connect-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2348078617821)
+[![Telegram](https://img.shields.io/badge/Telegram-Penivera-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Penivera)
 [![X](https://img.shields.io/badge/X-penivera001-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/penivera001)
 
 <!---
