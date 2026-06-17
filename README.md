@@ -13,7 +13,7 @@
 
 😄 Pronouns: He/Him
 
-⚡ Fun Fact: Nobody is coming to save you—keep pushing forward and own your growth.
+⚡ Daring To Dream
 
 <!---
 Penivera/Penivera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
