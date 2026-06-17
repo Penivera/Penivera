@@ -1,21 +1,32 @@
-👋 Hi, I’m Peniel Ben
+<h1 align="center">👋 Hi, I’m Peniel Ben</h1>
+<h3 align="center">Backend Engineer | Systems Developer | Blockchain Developer | Automation Specialist</h3>
 
-👀 Interests: Backend engineering, Blockchain development, DevOps, and advanced web automation.
+**👀 Focus:** Scalable backend architectures, systems engineering, Web3/Smart Contracts, DevOps, and advanced web automation/scraping.  
+**💡 Collaborate:** Open to building containerized backend systems, blockchain protocols, and anti-bot automation scripts.  
+**⚡ Fun Fact:** Nobody is coming to save you—keep pushing forward and own your growth.  
 
-🛠️ Tech Stack: Python (Django, Flask, FastAPI), Rust (Axum), Selenium, Playwright, Redis, Docker, and many more.
+### 🛠️ Tech Stack & Arsenal
 
-💡 Open to Collaborate: Robust containerized backend architectures, blockchain solutions, and anti-bot automation scripts.
+**Languages & Frameworks**  
+![Python](https://img.shields.io/badge/Python-Django_|_Flask_|_FastAPI-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-Axum_|_Smart_Contracts-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Vyper](https://img.shields.io/badge/Vyper-Smart_Contracts-363636?style=for-the-badge)
 
-📫 Reach Me: 
-* Email: penielben40@gmail.com  
-* WhatsApp: +2348078617821
-* X: https://x.com/penivera001
+**Automation & Infrastructure**  
+![Selenium](https://img.shields.io/badge/Selenium-Automation-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-Scraping-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-Caching-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-😄 Pronouns: He/Him
+**Other Skills**  
+![Frontend](https://img.shields.io/badge/Frontend-JS_|_HTML_|_CSS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![VB.net](https://img.shields.io/badge/VB.net-Desktop-00599C?style=for-the-badge)
 
-⚡ Daring To Dream
+### 📫 Let's Connect
+[![Email](https://img.shields.io/badge/Email-penielben40%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:penielben40@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Connect-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2348078617821)
+[![X](https://img.shields.io/badge/X-penivera001-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/penivera001)
 
 <!---
 Penivera/Penivera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
