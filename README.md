@@ -3,7 +3,7 @@
 
 **👀 Focus:** Scalable backend architectures, systems engineering, Web3/Smart Contracts, DevOps, and advanced web automation/scraping.  
 **💡 Collaborate:** Open to building containerized backend systems, blockchain protocols, and anti-bot automation scripts.  
-**⚡ Fun Fact:** Nobody is coming to save you—keep pushing forward and own your growth.  
+**⚡ Fun Fact:** Nobody is coming to save you, keep pushing forward and own your growth.  
 
 ### 🛠️ Tech Stack & Arsenal
 
